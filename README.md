@@ -1,6 +1,6 @@
 ### Hi there 👋
   My name is Alisson, I'm a FullStack Engineer at a FinTech Dutch company called Nationale-Nederlanden.
-  Currently, I work with Node.js applications, using what we call ![SJGAR](https://www.sjgarstack.org/) stack: Serveless, Javascripot, Gatsby, AppSync and React.
+  Currently, I work with Node.js applications, using what we call [SJGAR](https://www.sjgarstack.org/) stack: Serveless, Javascripot, Gatsby, AppSync and React.
 
 ![My Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonrubim&show_icons=true&theme=dracula&title_color=0969da&icon_color=8aacd3&border_radius=0&text_color=8a8a8a&bg_color=fff&hide_border=true)
 
