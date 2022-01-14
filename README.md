@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonrubim&show_icons=true&theme=dracula&title_color=ffc207&icon_color=b69326&border_radius=0&text_color=efefef)
+![My Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonrubim&show_icons=true&theme=dracula&title_color=22b7d2&icon_color=a5e1ed&border_radius=0&text_color=8a8a8a&bg_color=fff&hide_border=true)
 
 <!--
 **alissonrubim/alissonrubim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
